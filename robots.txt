@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://thaeshohth.isitdancecampyet.com/sitemap.xml
